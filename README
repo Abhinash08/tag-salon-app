@@ -1,0 +1,18 @@
+# Tag Salon
+
+Tag Salon is a mobile application that allows users to find nearby salons, view ratings, and book appointments بسهولة.
+
+## Features
+- Nearby salon search using location
+- Distance calculation with maps
+- Rating-based salon recommendations
+- Appointment booking
+
+## Tech Stack
+- Android (Kotlin/Java)
+- Google Maps API
+- Firebase
+
+## Future Improvements
+- Online payments
+- Reviews & feedback system
